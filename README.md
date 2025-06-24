@@ -1,5 +1,5 @@
 <!-- Banner animado ou estático (opcional) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&section=header&text=Olá,%20sou%20o%20Vinicius Edel!&fontColor=ffffff&fontSize=40&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&section=header&text=Olá,%20sou%20o%20ViniciusEdel!&fontColor=ffffff&fontSize=40&animation=fadeIn" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Especialista+em+Front-End;React%2C+Tailwind%2C+Node%2C+SQL+e+mais!" />
